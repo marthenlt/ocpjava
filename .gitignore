@@ -1,0 +1,11 @@
+# IDE's files #
+###################
+*.idea
+*.iml
+.cfignore
+
+target/*
+.classpath
+.project
+.settings
+
